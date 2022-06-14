@@ -1,2 +1,3 @@
 # Rakit-PC
-Merupakan CLI Game mengenai simulasi seorang perakit PC. Pertama-tama user akan mendapatkan sebuah order PC dengan spesifikasi yang diacak. Lalu user harus berangkat ke toko komponen dan membeli sejumlah komponen PC yang diperlukan dan juga dapat membeli lebih untuk menyetoknya dirumah. User kembali kerumah dan dapat menerima orderan baru atau merakit PC yang dipesan. Setelah dibangun user harus mengantar PC yang telah dirakit ke rumah customer yang memesan.
+
+This is a CLI Game about the simulation of a PC assembler. First, the user will get a PC order with randomized specifications. Then the user has to go to the component store and buy the required number of PC components and can also buy more to stock them at home. The user returns home and can receive new orders or assemble the ordered PC. After being built, the user must deliver the assembled PC to the customer's house who ordered it.
